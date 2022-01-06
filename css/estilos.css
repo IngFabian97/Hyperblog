@@ -32,11 +32,6 @@ body{
     margin: 0 auto;
 }
 
-<<<<<<< HEAD
-#container h1
-{
-    font-size: 20px;
-=======
 #container h1{
     font-size: 20px;
 }
@@ -44,5 +39,4 @@ body{
 #post 
 {
     padding: 1em;
->>>>>>> cabecera
 }
